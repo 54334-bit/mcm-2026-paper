@@ -1,4 +1,4 @@
-# MCM 2026 Problem C: Meritocracy vs. Popularity — Comparison and Redesign of DWTS Mechanisms
+# MCM 2026 Honorable Mention Problem C: Meritocracy vs. Popularity — Comparison and Redesign of DWTS Mechanisms
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
